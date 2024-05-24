@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Greenwood High School",
+    "type": "Secondary",
+    "products": [
+      "Zeraki Analytics",
+      "Zeraki Finance",
+      "Zeraki Timetable"
+    ],
+    "county": "Nairobi",
+    "registrationDate": "2025-01-15",
+    "contactInfo": {
+      "email": "contact@greenwoodhigh.com",
+      "phone": "+254700000000"
+    },
+    "balance": 2000
+  },
+  {
+    "id": "2",
+    "name": "Bluebells Primary School",
+    "type": "Primary",
+    "products": [
+      "Zeraki Analytics"
+    ],
+    "county": "Mombasa",
+    "registrationDate": "2022-11-22",
+    "contactInfo": {
+      "email": "info@bluebellsprimary.com",
+      "phone": "+254711111111"
+    },
+    "balance": 1500
+  },
+  {
+    "id": "3",
+    "name": "Riverside Academy",
+    "type": "Secondary",
+    "products": [
+      "Zeraki Analytics",
+      "Zeraki Timetable"
+    ],
+    "county": "Kisumu",
+    "registrationDate": "2021-09-01",
+    "contactInfo": {
+      "email": "admin@riversideacademy.ac.ke",
+      "phone": "+254722222222"
+    },
+    "balance": 3500
+  },
+  {
+    "id": "4",
+    "name": "Sunshine Montessori",
+    "type": "Primary",
+    "products": [
+      "Zeraki Analytics",
+      "Zeraki Finance"
+    ],
+    "county": "Nakuru",
+    "registrationDate": "2020-05-15",
+    "contactInfo": {
+      "email": "info@sunshinemontessori.sch.ke",
+      "phone": "+254733333333"
+    },
+    "balance": 2200
+  },
+  {
+    "id": "5",
+    "name": "Hilltop International School",
+    "type": "Secondary",
+    "products": [
+      "Zeraki Analytics",
+      "Zeraki Finance",
+      "Zeraki Timetable"
+    ],
+    "county": "Eldoret",
+    "registrationDate": "2019-08-10",
+    "contactInfo": {
+      "email": "admin@hilltopinternational.edu",
+      "phone": "+254744444444"
+    },
+    "balance": 4000
+  }
+]

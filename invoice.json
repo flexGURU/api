@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "invoiceId": 1,
+    "collectionNumber": "COL-2001",
+    "date": "2025-04-10",
+    "status": "Valid",
+    "amount": 500
+  },
+  {
+    "id": "2",
+    "invoiceId": 2,
+    "collectionNumber": "COL-2002",
+    "date": "2025-04-01",
+    "status": "Valid",
+    "amount": 2000
+  },
+  {
+    "id": "3",
+    "invoiceId": 4,
+    "collectionNumber": "COL-2003",
+    "date": "2025-04-20",
+    "status": "Valid",
+    "amount": 900
+  },
+  {
+    "id": "4",
+    "invoiceId": 5,
+    "collectionNumber": "COL-2004",
+    "date": "2025-03-25",
+    "status": "Valid",
+    "amount": 2500
+  },
+  {
+    "id": "5",
+    "invoiceId": 3,
+    "collectionNumber": "COL-2005",
+    "date": "2025-05-10",
+    "status": "Pending",
+    "amount": 1500
+  }
+]
